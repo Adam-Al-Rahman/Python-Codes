@@ -2,12 +2,12 @@ In code we are recurring in class object. So, it is obvious that are code will c
 
 # Q. How to calculate power of a number using recursion?
 
-### Answer: Steps to follow
+### Answer: 
 
 #### STEP-1: Recursive case - The flow
 
 $x^{n} = x*x.....n time ...x$
-$x^{a}*$  $x^{b}$ = $x^{a+b}$ 
+$x^{a}*$  $x^{b}$ = $x^{a+b}$
 $x^{n}$ = $x*x^{n-1}$
 
 so, the first become:
