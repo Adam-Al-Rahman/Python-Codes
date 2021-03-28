@@ -2,7 +2,7 @@ In code we are recurring in class object. So, it is obvious that are code will c
 
 # Q. How to calculate power of a number using recursion?
 
-### <u>Answer</u>:
+### Answer:
 
 #### STEP-1: Recursive case - The flow
 
